@@ -29,7 +29,7 @@ MarkupSafe
 orjson
 passlib
 promise
-psycopg2.1
+psycopg2
 pyasn1
 pycodestyle
 pycparser
