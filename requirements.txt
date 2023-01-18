@@ -1,6 +1,5 @@
 alembic
 aoc-lube
-apturl
 bcrypt
 blinker
 brlapi
@@ -64,8 +63,6 @@ selenium
 simplejson
 sip
 systemd-python
-ubuntu-advantage-tools
-ubuntu-drivers-common
 ufw
 ujson
 unattended-upgrades
