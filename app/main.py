@@ -29,8 +29,8 @@ app.add_middleware(
 
 @app.get("/")
 
-def hi():
-    return {"message":"hello"}
+def root():
+    return {"message":"Hello world"}
 
     
 
